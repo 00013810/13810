@@ -1,0 +1,40 @@
+﻿@* Views/Home/Index.cshtml *@
+<div class="button-container">
+    <h2>Welcome to the Home Page</h2>
+</div>
+<div class="button-container">
+    <p>Click the button below to view the list of products and categories</p>
+</div>
+<div class="button-container">
+    @Html.ActionLink("Go to Products", "Index", "Product", null, new { @class = "btn btn-rounded" })
+    @Html.ActionLink("Go to Categories", "Index", "Category", null, new { @class = "btn btn-rounded" })
+</div>
+
+<style>
+    .button-container {
+        display: flex;
+        justify-content: center;
+        gap: 20px; /* Adds space between buttons */
+        margin-top: 20px;
+    }
+
+    .btn {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        color: white;
+        background-color: #007bff;
+        text-decoration: none;
+        text-align: center;
+        border: none;
+        cursor: pointer;
+    }
+
+        .btn:hover {
+            background-color: #0056b3;
+        }
+
+    .btn-rounded {
+        border-radius: 20px; /* Adjust radius to control roundness */
+    }
+</style>

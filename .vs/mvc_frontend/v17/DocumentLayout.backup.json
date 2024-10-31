@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|c:\\dscc.cw1.13810\\asp.net web mvc\\mvc_frontend\\mvc_frontend\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|c:\\dscc.cw1.13810\\asp.net web mvc\\mvc_frontend\\mvc_frontend\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|c:\\dscc.cw1.13810\\asp.net web mvc\\mvc_frontend\\mvc_frontend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|c:\\dscc.cw1.13810\\asp.net web mvc\\mvc_frontend\\mvc_frontend\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|c:\\dscc.cw1.13810\\asp.net web mvc\\mvc_frontend\\mvc_frontend\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|c:\\dscc.cw1.13810\\asp.net web mvc\\mvc_frontend\\mvc_frontend\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|c:\\dscc.cw1.13810\\asp.net web mvc\\mvc_frontend\\mvc_frontend\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAD1AB7-ABDA-4EC3-827F-F2733FE1F1AC}|mvc_frontend\\mvc_frontend.csproj|solutionrelative:mvc_frontend\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "mvc_frontend\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "mvc_frontend\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAWwDwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T18:41:54.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "mvc_frontend\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "mvc_frontend\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T17:50:37.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "mvc_frontend\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "mvc_frontend\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T17:30:40.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Category\\Create.cshtml",
+              "RelativeDocumentMoniker": "mvc_frontend\\Views\\Category\\Create.cshtml",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Category\\Create.cshtml",
+              "RelativeToolTip": "mvc_frontend\\Views\\Category\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T17:21:16.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "mvc_frontend\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "mvc_frontend\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T16:50:24.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "mvc_frontend\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "mvc_frontend\\Views\\Category\\Details.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T16:31:27.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "mvc_frontend\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "mvc_frontend\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T06:43:40.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "mvc_frontend\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "mvc_frontend\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:54:42.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc_frontend\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "mvc_frontend\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:31:07.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "mvc_frontend\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "mvc_frontend\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAkwJkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:29:51.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc_frontend\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "mvc_frontend\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:28:00.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "mvc_frontend\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "mvc_frontend\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:24:42.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvc_frontend\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "mvc_frontend\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-29T13:22:35.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "mvc_frontend\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "mvc_frontend\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:20:29.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "mvc_frontend\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "mvc_frontend\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAmwIgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:18:50.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "mvc_frontend\\Models\\Category.cs",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Models\\Category.cs",
+              "RelativeToolTip": "mvc_frontend\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:10:43.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "mvc_frontend\\Models\\Product.cs",
+              "ToolTip": "C:\\DSCC.CW1.13810\\ASP.NET Web mvc\\mvc_frontend\\mvc_frontend\\Models\\Product.cs",
+              "RelativeToolTip": "mvc_frontend\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T13:08:27.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
